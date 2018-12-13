@@ -1,0 +1,3 @@
+Features\FT-01-02c493b9-4cae-6c4f-7032-659229b764db\solution.xsn;AWP_Content
+Features\PortalLayouts\dwp\SearchHighConfidence.webpart;AWP_Content
+Features\WebPartSPRssTicker\WebPartSPRssTicker\WebPartSPRssTicker.webpart;AWP_Content
